@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+#ram {
+    height: 1500px;
+    width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    position: absolute;
+
+    }
+
+#head {
+    height: 400px;
+    width: 800px;
+    background-color:black;
+
+}
+#img {
+
+    height: 400px;
+    width: 800px;
+    background: #003399;
+    opacity: .7;
+    position: absolute;
+}
+
+#head1 {
+         font-family:Helvetica;
+         color:white;
+         padding-top: 80px;
+         position: absolute;;
+         font-size: 50px;
+         padding-left: 20px;
+
+}
+
+h2 {position: absolute;
+    color:black;
+    padding-top: 390px;
+    padding-left: 20px;}
+
+#bodytop {
+
+    height: 800px;
+    width: 800px;
+}
+table {
+    margin-right: 400px;
+    margin-top: 50px;
+    border-collapse: collapse;
+    width: 800px;
+  
+}
+table th
+{ 
+color: black;
+position:relative;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+padding: 10px;
+text-align: center;
+
+}
+table td {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color:black;
+    padding: 10px 8px;
+    font-size: 10px;
+    text-align: center;
+}
+
+#background {
+    background-color:rgb(198, 232, 238);
+}
+
+table tr :last-child {
+padding-right: 250px;
+}
+
+table td:first-child{
+    font-weight: bold;
+}
+
